@@ -1,2 +1,2 @@
-select distinct (name, continent) as 
+select distinct name, continent
 from country;
